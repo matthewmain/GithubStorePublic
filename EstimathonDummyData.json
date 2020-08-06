@@ -2,37 +2,66 @@
   "Update_scoreboard",
   [
     [
-      "team0",
+      "Alpha",
       {
         "per_problem": [
-          [ "Correct", 17 ],
-          [ "Correct", 100 ],
+          [ "Correct", 19 ],
+          [ "Correct", 19 ],
+          [ "Correct", 8 ],
+          [ "Correct", 29 ],
+          [ "Incorrect", { "misses": 1 } ],
           [ "Incorrect", { "misses": 0 } ],
-          [ "Incorrect", { "misses": 1 } ]
+          [ "Correct", 14 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 10 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 9 ]
         ],
-        "overall": 2831
+        "overall": 7552
       }
     ],
     [
-      "team1",
+      "Bravo",
       {
         "per_problem": [
-          [ "Correct", 17 ],
-          [ "Correct", 100 ],
-          [ "Incorrect", { "misses": 1 } ]
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 19 ],
+          [ "Correct", 6 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 9 ],
+          [ "Correct", 6 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ]
         ],
-        "overall": 2831
+        "overall": 452
       }
     ],
     [
-      "team2",
+      "Charlie",
       {
         "per_problem": [
-          [ "Correct", 17 ],
-          [ "Correct", 100 ],
-          [ "Incorrect", { "misses": 1 } ]
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 30 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 16 ],
+          [ "Correct", 3 ],
+          [ "Correct", 6 ],
+          [ "Correct", 5 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 6 ]
         ],
-        "overall": 2831
+        "overall": 484
       }
     ]
   ]
