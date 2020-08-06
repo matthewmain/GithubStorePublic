@@ -1,0 +1,39 @@
+[
+  "Update_scoreboard",
+  [
+    [
+      "team0",
+      {
+        "per_problem": [
+          [ "Correct", 17 ],
+          [ "Correct", 100 ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Incorrect", { "misses": 1 } ]
+        ],
+        "overall": 2831
+      }
+    ],
+    [
+      "team1",
+      {
+        "per_problem": [
+          [ "Correct", 17 ],
+          [ "Correct", 100 ],
+          [ "Incorrect", { "misses": 1 } ]
+        ],
+        "overall": 2831
+      }
+    ],
+    [
+      "team2",
+      {
+        "per_problem": [
+          [ "Correct", 17 ],
+          [ "Correct", 100 ],
+          [ "Incorrect", { "misses": 1 } ]
+        ],
+        "overall": 2831
+      }
+    ]
+  ]
+]
