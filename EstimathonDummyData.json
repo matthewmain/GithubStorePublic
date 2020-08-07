@@ -65,16 +65,150 @@
       }
     ],
     [
-      "Incomplete Set",
+      "Delta",
       {
         "per_problem": [
           [ "Correct", 9 ],
-          [ "Incorrect", { "misses": 3 } ],
-          [ "Correct", 16 ],
-          [ "Incorrect", { "misses": 0 } ],
-          [ "Correct", 6 ]
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 19 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 26 ],
+          [ "Correct", 9 ]
         ],
-        "overall": 484
+        "overall": 1888
+      }
+    ],
+    [
+      "Echo",
+      {
+        "per_problem": [
+          [ "Correct", 7 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 19 ],
+          [ "Correct", 19 ],
+          [ "Correct", 19 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 1 } ]
+        ],
+        "overall": 6464
+      }
+    ],
+    [
+      "Foxtrot",
+      {
+        "per_problem": [
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 8 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Correct", 3 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 16 ],
+          [ "Correct", 9 ]
+        ],
+        "overall": 436
+      }
+    ],
+    [
+      "Golf",
+      {
+        "per_problem": [
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 99 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 19 ],
+          [ "Correct", 5 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 19 ],
+          [ "Correct", 3 ]
+        ],
+        "overall": 436
+      }
+    ],
+    [
+      "Hotel",
+      {
+        "per_problem": [
+          [ "Correct", 29 ],
+          [ "Correct", 14 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 9 ],
+          [ "Correct", 2 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 50 ],
+          [ "Correct", 99 ],
+          [ "Correct", 24 ],
+          [ "Correct", 99 ]
+        ],
+        "overall": 2832
+      }
+    ],
+    [
+      "India",
+      {
+        "per_problem": [
+          [ "Correct", 100 ],
+          [ "Correct", 11 ],
+          [ "Correct", 5 ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Incorrect", { "misses": 2 } ],
+          [ "Correct", 6 ],
+          [ "Incorrect", { "misses": 1 } ],
+          [ "Correct", 9 ],
+          [ "Correct", 10 ],
+          [ "Correct", 11 ],
+          [ "Correct", 1 ],
+          [ "Incorrect", { "misses": 2 } ]
+        ],
+        "overall": 5216
+      }
+    ],
+    [
+      "Juliet",
+      {
+        "per_problem": [
+          [ "Correct", 9 ],
+          [ "Correct", 7 ],
+          [ "Correct", 9 ],
+          [ "Correct", 10 ],
+          [ "Correct", 9 ],
+          [ "Correct", 19 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 9 ],
+          [ "Correct", 49 ],
+          [ "Correct", 14 ]
+        ],
+        "overall": 181
       }
     ]
   ]
