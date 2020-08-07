@@ -63,6 +63,19 @@
         ],
         "overall": 484
       }
+    ],
+    [
+      "Incomplete Set",
+      {
+        "per_problem": [
+          [ "Correct", 9 ],
+          [ "Incorrect", { "misses": 3 } ],
+          [ "Correct", 16 ],
+          [ "Incorrect", { "misses": 0 } ],
+          [ "Correct", 6 ]
+        ],
+        "overall": 484
+      }
     ]
   ]
 ]
